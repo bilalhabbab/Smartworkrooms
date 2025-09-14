@@ -28,9 +28,9 @@ An AI-powered collaboration platform designed for professional teams, featuring 
 ## 🛠️ Technology Stack
 
 ### Frontend
-- **React
+- **React**
 - **TypeScript** 
-- **Material-UI
+- **Material-UI**
 - **React Router**
 
 ### Backend Services
