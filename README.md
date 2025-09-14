@@ -2,7 +2,7 @@
 
 An AI-powered collaboration platform designed for professional teams, featuring multi-organization support, document management, and advanced analytics.
 
-![SmartWorkrooms](https://img.shields.io/badge/React-18.2.0-blue) ![TypeScript](https://img.shields.io/badge/TypeScript-4.9.5-blue) ![Firebase](https://img.shields.io/badge/Firebase-9.0+-orange) ![Material-UI](https://img.shields.io/badge/Material--UI-5.0+-purple)
+
 
 ## 🌟 Features
 
